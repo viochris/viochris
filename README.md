@@ -39,16 +39,17 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
 
 ### 🚀 Featured Projects
 
-Here are some selected projects showcasing my journey in NLP and Tabular Data processing:
+Here is a comprehensive list of my Data Science & AI projects, ranging from robust predictive modeling to API deployment and NLP exploration:
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
-| **[Diabetes Prediction (Robust)](https://github.com/viochris/Diabetes-prediction-fine-tuned-project)** | Tabular | Scikit-Learn, SMOTE | Built a robust prediction model ensuring **no data leakage** by applying Scaling & SMOTE after data splitting. |
-| **[Stunting Classification Analysis](https://github.com/viochris/Stunting-prediction-project)** | Tabular | SMOTENC, Decision Tree | Handling categorical imbalance using **SMOTENC** and visualizing decision paths (Pruned Tree) for better interpretability. |
-| **[Review Sentiment Analyzer](https://github.com/viochris/Simple-Sentiment-Analysis)** | NLP | Transformers, Python | Leveraging **Hugging Face** pre-trained models to classify text sentiment accurately. |
-| **[Conversational AI Companion](https://github.com/viochris/Simple-AI-Girlfriend)** | NLP | Python, Logic Flow | A personal project exploring conversational agents and character-based interactions. |
+| **[Diabetes Prediction (Robust)](https://github.com/viochris/Diabetes-prediction-fine-tuned-project)** | Tabular | Scikit-Learn, SMOTE | **Best Practice.** Built a robust model ensuring **no data leakage** by applying Scaling & SMOTE *after* data splitting. |
+| **[Stunting Prediction API](https://github.com/viochris/API-Stuntify)** | API / MLOps | Flask, Python | **Deployment.** Serving the stunting prediction model as a **RESTful API** for real-time inference using Flask. |
+| **[Stunting Analysis](https://github.com/viochris/Stunting-prediction-project)** | Tabular | SMOTENC, Tree Viz | Handling categorical imbalance with **SMOTENC** and visualizing decision paths (Pruned Tree) for interpretability. |
+| **[Review Sentiment Analyzer](https://github.com/viochris/Simple-Sentiment-Analysis)** | NLP | Transformers, Python | Leveraging **Hugging Face** pre-trained models to accurately classify text sentiment (Positive/Negative). |
+| **[Conversational AI Companion](https://github.com/viochris/Simple-AI-Girlfriend)** | NLP | Python, Logic Flow | A personal project exploring conversational agents, logic flow, and character-based interactions. |
+| **[Diabetes Paper Replication](https://github.com/viochris/Diabetes-prediction-project)** | Academic | Python, Pandas | **Research Study.** Replicating a specific research paper's methodology (including its pre-split scaling technique) for comparative analysis. |
 
-*(Note: I also have a [Paper Replication Project](https://github.com/viochris/Diabetes-prediction-project) where I reproduced a research paper's methodology for academic purposes.)*
 
 ---
 
@@ -63,7 +64,7 @@ Here are some selected projects showcasing my journey in NLP and Tabular Data pr
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [Silvio Christian Joe](https://www.linkedin.com/in/silvio-christian-joe)
+* **LinkedIn:** [Silvio Christian, Joe](https://www.linkedin.com/in/silvio-christian-joe)
 * **Email:** [viochristian12@gmail.com](mailto:viochristian12@gmail.com)
 
 ---
