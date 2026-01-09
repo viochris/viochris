@@ -52,6 +52,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
 | **[Diabetes Prediction (Robust)](https://github.com/viochris/Diabetes-prediction-fine-tuned-project)** | Tabular | Scikit-Learn, SMOTE | **Best Practice.** Built a robust model ensuring **no data leakage** by applying Scaling & SMOTE *after* data splitting. |
+| **[AI Recipe Generator](https://github.com/viochris/ai-recipe-generator)** | GenAI / Agent | LangChain, Gemini, Streamlit | **Agentic App.** Orchestrated a cooking assistant using **LangChain ReAct Agents** and **Gemini 2.5 Flash** to detect ingredients (Vision) and generate recipes with conversation memory. |
 | **[Stunting Prediction API](https://github.com/viochris/API-Stuntify)** | API / MLOps | Flask, Python | **Deployment.** Serving the stunting prediction model as a **RESTful API** for real-time inference using Flask. |
 | **[Stunting Analysis](https://github.com/viochris/Stunting-prediction-project)** | Tabular | SMOTENC, Tree Viz | Handling categorical imbalance with **SMOTENC** and visualizing decision paths (Pruned Tree) for interpretability. |
 | **[Review Sentiment Analyzer](https://github.com/viochris/Simple-Sentiment-Analysis)** | NLP | Transformers, Python | Leveraging **Hugging Face** pre-trained models to accurately classify text sentiment (Positive/Negative). |
