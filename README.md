@@ -90,7 +90,8 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
     <img src="https://img.shields.io/badge/View_on_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View CV" />
   </a>
   
-  <br><br> <a href="mailto:viochristian12@gmail.com">
+  <br> 
+  <a href="mailto:viochristian12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/silvio-christian-joe">
