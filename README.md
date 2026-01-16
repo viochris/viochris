@@ -83,15 +83,15 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 <div align="center">
 
-  <a href="CV_Silvio_Christian_Joe_Data_Scientist-CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_CV_PDF-ED2224?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
+  <a href="CV_Silvio_Christian_Joe_Data_Scientist-CV.pdf?raw=true" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV_(PDF)-ED2224?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
   </a>
   &nbsp;
   <a href="https://drive.google.com/file/d/1RiqkgvDZP4c1MoXTp2-8ZTnnVTo8fen5/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View_on_Drive-4285F4?style=flat-square&logo=google-drive&logoColor=white" alt="View CV" />
+    <img src="https://img.shields.io/badge/View_on_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View CV" />
   </a>
   
-  <br> <a href="mailto:viochristian12@gmail.com">
+  <br><br> <a href="mailto:viochristian12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/silvio-christian-joe">
