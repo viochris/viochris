@@ -82,8 +82,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### 📫 Connect with Me & Resume
 
 <div align="center">
-
-  <a href="https://github.com/viochris/viochris/blob/main/CV_Silvio_Christian_Joe_Data_Scientist.pdf?raw=true" target="_blank">
+  <a href="https://github.com/viochris/viochris/raw/main/CV_Silvio_Christian_Joe_Data_Scientist.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV_(PDF)-ED2224?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
   </a>
   &nbsp;
