@@ -56,7 +56,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 | **[Stunting Prediction API](https://github.com/viochris/API-Stuntify)** | API / MLOps | Flask, Python | **Deployment.** Serving the stunting prediction model as a **RESTful API** for real-time inference using Flask. |
 | **[Stunting Analysis](https://github.com/viochris/Stunting-prediction-project)** | Tabular | SMOTENC, Tree Viz | Handling categorical imbalance with **SMOTENC** and visualizing decision paths (Pruned Tree) for interpretability. |
 | **[Review Sentiment Analyzer](https://github.com/viochris/Simple-Sentiment-Analysis)** | NLP | Transformers, Python | Leveraging **Hugging Face** pre-trained models to accurately classify text sentiment (Positive/Negative). |
-| **[Conversational AI Companion](https://github.com/viochris/Simple-AI-Girlfriend)** | NLP | Python, Logic Flow | A personal project exploring conversational agents, logic flow, and character-based interactions. |
+| **[Conversational AI Agent](https://github.com/viochris/Simple-AI-Girlfriend)** | NLP | Python, Logic Flow | A personal project exploring conversational agents, logic flow, and character-based interactions. |
 | **[Diabetes Paper Replication](https://github.com/viochris/Diabetes-prediction-project)** | Academic | Python, Pandas | **Research Study.** Replicating a specific research paper's methodology (including its pre-split scaling technique) for comparative analysis. |
 
 
