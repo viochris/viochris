@@ -1,6 +1,12 @@
 # Hi there, I'm Vio! 👋
 
-### A Data Science Enthusiast & CS Student
+### A Data Science Enthusiast & Computer Science Student
+
+<div align="center">
+  <img src="coding-animation.gif" width="48%" alt="Coding Animation" />
+  &nbsp;
+  <img src="coding-real.gif" width="48%" alt="Real Coding" />
+</div>
 
 I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswantoro (UDINUS)**, Indonesia. My journey is driven by curiosity—turning raw data into meaningful stories. I specialize in mining insights from structured numbers (**Tabular**) and unstructured language (**Text/NLP**).
 
@@ -73,10 +79,26 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect with Me & Resume
 
-* **LinkedIn:** [Silvio Christian, Joe](https://www.linkedin.com/in/silvio-christian-joe)
-* **Email:** [viochristian12@gmail.com](mailto:viochristian12@gmail.com)
+<div align="center">
+
+  <a href="CV_Silvio_Christian_Joe_Data_Scientist-CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV_PDF-ED2224?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1RiqkgvDZP4c1MoXTp2-8ZTnnVTo8fen5/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View_on_Drive-4285F4?style=flat-square&logo=google-drive&logoColor=white" alt="View CV" />
+  </a>
+  
+  <br> <a href="mailto:viochristian12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/silvio-christian-joe">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
 
 ---
 *"Data is the new oil, but it’s useless without the engine to refine it."*
