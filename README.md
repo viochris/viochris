@@ -58,6 +58,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
+| **[PdfTalk-AI (Smart RAG)](https://github.com/viochris/PdfTalk-AI)** | GenAI / RAG | LangChain, Gemini 2.5 Flash, FAISS | **Agentic Workflow.** Intelligent document assistant using **ReAct Agents** to decide between PDF retrieval (FAISS) or Web Search. Features **Incremental Indexing** (cost-efficient), strict language control, and session export. |
 | **[DocuChat AI (Long Context)](https://github.com/viochris/Gemini-Long-Context-Chat)** | GenAI / LLM | Gemini 2.5 Flash, Streamlit, Python | **Full Context Approach.** Analyzing entire PDFs without chunking (RAG alternative) using Gemini's massive context window. Features **Strict Language Enforcement** and real-time token monitoring. |
 | **[Diabetes Prediction (Robust)](https://github.com/viochris/Diabetes-prediction-fine-tuned-project)** | Tabular | Scikit-Learn, SMOTE | **Best Practice.** Built a robust model ensuring **no data leakage** by applying Scaling & SMOTE *after* data splitting. |
 | **[AI Recipe Generator](https://github.com/viochris/ai-recipe-generator)** | GenAI / Agent | LangChain, Gemini, Streamlit | **Agentic App.** Orchestrated a cooking assistant using **LangChain ReAct Agents** and **Gemini 2.5 Flash** to detect ingredients (Vision) and generate recipes with conversation memory. |
