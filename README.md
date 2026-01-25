@@ -11,6 +11,18 @@
 I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswantoro (UDINUS)**, Indonesia. My journey is driven by curiosity—turning raw data into meaningful stories. I specialize in mining insights from structured numbers (**Tabular**) and unstructured language (**Text/NLP**).
 
 ---
+## 📚 Table of Contents
+
+- [🧐 What I'm Focusing On](#-what-im-focusing-on)
+- [🛠️ Tech Stack & Tools](#-tech-stack--tools)
+- [🚀 Featured Projects](#-featured-projects)
+  - [🤖 GenAI & Interactive Applications](#-genai--interactive-applications)
+  - [🔌 Backend & Deployment (MLOps)](#-backend--deployment-mlops)
+  - [📊 Data Science & Applied ML](#-data-science--applied-ml)
+- [📈 GitHub Stats](#-github-stats)
+- [📫 Connect with Me & Resume](#-connect-with-me--resume)
+
+---
 
 ### 🧐 What I'm Focusing On
 
@@ -56,22 +68,36 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
 
 Here is a comprehensive list of my Data Science & AI projects, ranging from robust predictive modeling to API deployment and NLP exploration:
 
+#### 🤖 GenAI & Interactive Applications
+*Interactive AI agents and chatbots powered by RAG and LLMs.*
+
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
 | **[Chat with Vio (Portfolio AI)](https://github.com/viochris/personal-ai-assistant)** | GenAI / Portfolio | Streamlit, LangChain, Gemini 2.5 | **Interactive CV.** A personalized RAG assistant that "chats" with a professional profile. Features **Strict Anti-Hallucination**, bilingual support (EN/ID), and a responsive UI optimized for recruiters. |
-| **[Portfolio API (Backend)](https://github.com/viochris/silvio-portfolio-api)** | Backend / API | FastAPI, Docker, FAISS | **Headless RAG Engine.** The high-performance backend serving the portfolio data. Features **Swagger UI** for testing, structured JSON responses with **Source Citations**, and fully Dockerized deployment on Hugging Face Spaces. |
 | **[DocuTalk-AI (Smart RAG)](https://github.com/viochris/DocuTalk-AI)** | GenAI / RAG | LangChain, Gemini 2.5 Flash, FAISS | **Agentic Workflow.** Intelligent document assistant using **ReAct Agents** to decide between Document retrieval (PDF, CSV, TXT, MD) (FAISS) or Web Search. Features **Incremental Indexing** (cost-efficient), strict language control, and session export. |
+| **[DocuChat AI (Long Context)](https://github.com/viochris/Gemini-Long-Context-Chat)** | GenAI / LLM | Gemini 2.5 Flash, Streamlit, Python | **Full Context Approach.** Analyzing entire PDFs without chunking (RAG alternative) using Gemini's massive context window. Features **Strict Language Enforcement** and real-time token monitoring. |
+| **[AI Recipe Generator](https://github.com/viochris/ai-recipe-generator)** | GenAI / Agent | LangChain, Gemini, Streamlit | **Agentic App.** Orchestrated a cooking assistant using **LangChain ReAct Agents** and **Gemini 2.5 Flash** to detect ingredients (Vision) and generate recipes with conversation memory. |
+| **[Conversational AI Agent](https://github.com/viochris/Simple-AI-Girlfriend)** | NLP | Python, Logic Flow | A personal project exploring conversational agents, logic flow, and character-based interactions. |
+
+#### 🔌 Backend & Deployment (MLOps)
+*High-performance APIs and production-ready inference engines.*
+
+| Project Name | Domain | Key Tech | Description |
+| :--- | :---: | :---: | :--- |
+| **[Portfolio API (Backend)](https://github.com/viochris/silvio-portfolio-api)** | Backend / API | FastAPI, Docker, FAISS | **Headless RAG Engine.** The high-performance backend serving the portfolio data. Features **Swagger UI** for testing, structured JSON responses with **Source Citations**, and fully Dockerized deployment on Hugging Face Spaces. |
 | **[Stuntify API (MLOps)](https://github.com/viochris/Stuntify-API)** | API / MLOps | FastAPI, Pydantic, Scikit-Learn | **High-Performance Engine.** A robust inference system using **FastAPI** to serve real-time stunting predictions. Features strict **Type Coercion**, multi-artifact orchestration, and interactive Swagger documentation. |
 | **[Insightify API (NLP)](https://github.com/viochris/Insightify-Sentiment-API)** | NLP / API | FastAPI, Transformers, Pandas | **Dual-Lingual Analytics.** NLP microservice for **English & Indonesian** sentiment using **RoBERTa**. Features **Batch Processing** (Excel/CSV), N-Gram keyword extraction, and automated text statistics. |
-| **[DocuChat AI (Long Context)](https://github.com/viochris/Gemini-Long-Context-Chat)** | GenAI / LLM | Gemini 2.5 Flash, Streamlit, Python | **Full Context Approach.** Analyzing entire PDFs without chunking (RAG alternative) using Gemini's massive context window. Features **Strict Language Enforcement** and real-time token monitoring. |
-| **[Diabetes Prediction (Robust)](https://github.com/viochris/Diabetes-prediction-fine-tuned-project)** | Tabular | Scikit-Learn, SMOTE | **Best Practice.** Built a robust model ensuring **no data leakage** by applying Scaling & SMOTE *after* data splitting. |
-| **[AI Recipe Generator](https://github.com/viochris/ai-recipe-generator)** | GenAI / Agent | LangChain, Gemini, Streamlit | **Agentic App.** Orchestrated a cooking assistant using **LangChain ReAct Agents** and **Gemini 2.5 Flash** to detect ingredients (Vision) and generate recipes with conversation memory. |
 | **[Stunting Prediction API](https://github.com/viochris/API-Stuntify)** | API / MLOps | Flask, Python | **Deployment.** Serving the stunting prediction model as a **RESTful API** for real-time inference using Flask. |
+
+#### 📊 Data Science & Model Building
+*In-depth data analysis, model training, NLP implementation, and academic research.*
+
+| Project Name | Domain | Key Tech | Description |
+| :--- | :---: | :---: | :--- |
+| **[Diabetes Prediction (Robust)](https://github.com/viochris/Diabetes-prediction-fine-tuned-project)** | Tabular | Scikit-Learn, SMOTE | **Best Practice.** Built a robust model ensuring **no data leakage** by applying Scaling & SMOTE *after* data splitting. |
 | **[Stunting Analysis](https://github.com/viochris/Stunting-prediction-project)** | Tabular | SMOTENC, Tree Viz | Handling categorical imbalance with **SMOTENC** and visualizing decision paths (Pruned Tree) for interpretability. |
 | **[Review Sentiment Analyzer](https://github.com/viochris/Simple-Sentiment-Analysis)** | NLP | Transformers, Python | Leveraging **Hugging Face** pre-trained models to accurately classify text sentiment (Positive/Negative). |
-| **[Conversational AI Agent](https://github.com/viochris/Simple-AI-Girlfriend)** | NLP | Python, Logic Flow | A personal project exploring conversational agents, logic flow, and character-based interactions. |
 | **[Diabetes Paper Replication](https://github.com/viochris/Diabetes-prediction-project)** | Academic | Python, Pandas | **Research Study.** Replicating a specific research paper's methodology (including its pre-split scaling technique) for comparative analysis. |
-
 
 ---
 
