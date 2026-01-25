@@ -14,11 +14,11 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
 ## 📚 Table of Contents
 
 - [🧐 What I'm Focusing On](#-what-im-focusing-on)
-- [🛠️ Tech Stack & Tools](#-tech-stack--tools)
+- [🛠️ Tech Stack & Tools](#tech-stack)
 - [🚀 Featured Projects](#-featured-projects)
   - [🤖 GenAI & Interactive Applications](#-genai--interactive-applications)
   - [🔌 Backend & Deployment (MLOps)](#-backend--deployment-mlops)
-  - [📊 Data Science & Applied ML](#-data-science--applied-ml)
+  - [📊 Data Science (Applied ML & Model Building)](#-data-science-applied-ml--model-building)
 - [📈 GitHub Stats](#-github-stats)
 - [📫 Connect with Me & Resume](#-connect-with-me--resume)
 
@@ -32,7 +32,7 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### <a name="tech-stack"></a>🛠️ Tech Stack & Tools
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -89,7 +89,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 | **[Insightify API (NLP)](https://github.com/viochris/Insightify-Sentiment-API)** | NLP / API | FastAPI, Transformers, Pandas | **Dual-Lingual Analytics.** NLP microservice for **English & Indonesian** sentiment using **RoBERTa**. Features **Batch Processing** (Excel/CSV), N-Gram keyword extraction, and automated text statistics. |
 | **[Stunting Prediction API](https://github.com/viochris/API-Stuntify)** | API / MLOps | Flask, Python | **Deployment.** Serving the stunting prediction model as a **RESTful API** for real-time inference using Flask. |
 
-#### 📊 Data Science & Model Building
+#### 📊 Data Science (Applied ML & Model Building)
 *In-depth data analysis, model training, NLP implementation, and academic research.*
 
 | Project Name | Domain | Key Tech | Description |
