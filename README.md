@@ -73,12 +73,13 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
+| **[InsightSQL (ReAct Engine)](https://github.com/viochris/InsightSQL-ReAct-Engine)** | GenAI / SQL Agent | LangChain (ReAct), Gemini 2.5 Flash | **Advanced Reasoning Agent.** Intelligent DBA using **ReAct Architecture** (Thought-Action-Observation) to reason through messy data. Features **Glass Box AI** transparency, self-correction, and multilingual business insights. |
+| **[InsightSQL (Simple)](https://github.com/viochris/InsightSQL-Simple)** | GenAI / SQL Agent | LangChain (SQL Agent), Gemini 2.5 Flash | **Zero-Shot SQL Engine.** Streamlined Text-to-SQL assistant using standard **create_sql_agent**. Efficiently maps schema to queries with real-time execution feedback via Streamlit Callbacks. |
 | **[Chat with Vio (Portfolio AI)](https://github.com/viochris/personal-ai-assistant)** | GenAI / Portfolio | Streamlit, LangChain, Gemini 2.5 | **Interactive CV.** A personalized RAG assistant that "chats" with a professional profile. Features **Strict Anti-Hallucination**, bilingual support (EN/ID), and a responsive UI optimized for recruiters. |
 | **[DocuTalk-AI (Smart RAG)](https://github.com/viochris/DocuTalk-AI)** | GenAI / RAG | LangChain, Gemini 2.5 Flash, FAISS | **Agentic Workflow.** Intelligent document assistant using **ReAct Agents** to decide between Document retrieval (PDF, CSV, TXT, MD) (FAISS) or Web Search. Features **Incremental Indexing** (cost-efficient), strict language control, and session export. |
 | **[DocuFlow-AI (Fast RAG)](https://github.com/viochris/DocuFlow-AI)** | GenAI / RAG | LangChain, Gemini 2.5 Flash, FAISS | **High-Performance Engine.** Streamlined RAG using **ConversationalRetrievalChain** for instant, precise analysis (PDF, CSV, MD). Features **Transparent Verification** (Source & Score), incremental indexing, and zero agentic latency. |
 | **[DocuChat AI (Long Context)](https://github.com/viochris/Gemini-Long-Context-Chat)** | GenAI / LLM | Gemini 2.5 Flash, Streamlit, Python | **Full Context Approach.** Analyzing entire PDFs without chunking (RAG alternative) using Gemini's massive context window. Features **Strict Language Enforcement** and real-time token monitoring. |
 | **[AI Recipe Generator](https://github.com/viochris/ai-recipe-generator)** | GenAI / Agent | LangChain, Gemini, Streamlit | **Agentic App.** Orchestrated a cooking assistant using **LangChain ReAct Agents** and **Gemini 2.5 Flash** to detect ingredients (Vision) and generate recipes with conversation memory. |
-| **[Conversational AI Agent](https://github.com/viochris/Simple-AI-Girlfriend)** | NLP | Python, Logic Flow | A personal project exploring conversational agents, logic flow, and character-based interactions. |
 
 #### 🔌 Backend & Deployment (MLOps)
 *High-performance APIs and production-ready inference engines.*
@@ -99,6 +100,23 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 | **[Stunting Analysis](https://github.com/viochris/Stunting-prediction-project)** | Tabular | SMOTENC, Tree Viz | Handling categorical imbalance with **SMOTENC** and visualizing decision paths (Pruned Tree) for interpretability. |
 | **[Review Sentiment Analyzer](https://github.com/viochris/Simple-Sentiment-Analysis)** | NLP | Transformers, Python | Leveraging **Hugging Face** pre-trained models to accurately classify text sentiment (Positive/Negative). |
 | **[Diabetes Paper Replication](https://github.com/viochris/Diabetes-prediction-project)** | Academic | Python, Pandas | **Research Study.** Replicating a specific research paper's methodology (including its pre-split scaling technique) for comparative analysis. |
+
+#### 📈 Data Analytics & Visualization
+*Focusing on exploratory data analysis (EDA), business intelligence dashboards, and visual storytelling.*
+
+| Project Name | Domain | Key Tech | Description |
+| :--- | :---: | :---: | :--- |
+| **🚧 Coming Soon** | Analytics | Tableau / PowerBI / Python | *Currently working on deep-dive analytics projects involving SQL transformations and interactive dashboards.* |
+
+#### 🎮 Experimental & Fun Projects
+*Creative coding projects exploring logic flows, real-time communication, and game-like interactions.*
+
+| Project Name | Domain | Key Tech | Description |
+| :--- | :---: | :---: | :--- |
+| **[Conversational AI Agent](https://github.com/viochris/Simple-AI-Girlfriend)** | GenAI / Persona | Streamlit, Gemini LLM | **Roleplay Chatbot.** An engaging AI companion simulating a romantic partner using **Google Gemini**, featuring persistent memory and dynamic persona adaptation. |
+| **[Real-time Chat Group](https://github.com/viochris/chat-group.git)** | Social / Socket | Python, Networking | **Multi-User Chat.** A casual project exploring real-time communication and socket programming principles to create a functional group chat environment. |
+
+> **⚠️ Disclaimer:** These projects are created purely for **educational purposes and fun**. They are provided "as-is" without warranty of any kind. The author is not responsible for any security vulnerabilities, data loss, or misuse resulting from the deployment of this code. **Not intended for production use.**
 
 ---
 
