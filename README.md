@@ -106,7 +106,8 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
-| **🚧 Coming Soon** | Analytics | Tableau / PowerBI / Python | *Currently working on deep-dive analytics projects involving SQL transformations and interactive dashboards.* |
+| **[Supermarket Sales Dashboard](https://public.tableau.com/views/SupermarketSalesDashboard_17081427139270/Dashboard1)** | Retail Analytics | Tableau Public | **Sales Performance.** Interactive dashboard tracking revenue, customer demographics, and product line trends to identify key growth opportunities in retail. |
+| **[Bike Sales Dashboard](https://public.tableau.com/views/BikeSalesDashboard_17081369078430/Dashboard1)** | Sales Intelligence | Tableau Public | **Customer Insights.** Comprehensive visualization analyzing purchasing behaviors, regional trends, and demographic factors (age/gender) influencing bike sales. |
 
 #### 🎮 Experimental & Fun Projects
 *Creative coding projects exploring logic flows, real-time communication, and game-like interactions.*
