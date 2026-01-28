@@ -19,6 +19,8 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
   - [🤖 GenAI & Interactive Applications](#-genai--interactive-applications)
   - [🔌 Backend & Deployment (MLOps)](#-backend--deployment-mlops)
   - [📊 Data Science (Applied ML & Model Building)](#-data-science-applied-ml--model-building)
+  - [📈 Data Analytics & Visualization](#-data-analytics--visualization)
+  - [🎮 Experimental & Fun Projects](#-experimental--fun-projects)
 - [📈 GitHub Stats](#-github-stats)
 - [📫 Connect with Me & Resume](#-connect-with-me--resume)
 
