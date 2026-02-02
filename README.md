@@ -100,6 +100,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
+| **[Resume Scanner Pro](https://github.com/viochris/streamlit-resume-scanner)** | NLP / Applied ML | SBERT, Scikit-Learn, Streamlit | **Dual-Engine CV Analyzer.** A hybrid NLP tool combining **Strict ATS Logic** (TF-IDF) and **Semantic Search** (SBERT Embeddings) to calculate resume-job fit and detect missing keywords. |
 | **[Diabetes Prediction (Robust)](https://github.com/viochris/Diabetes-prediction-fine-tuned-project)** | Tabular | Scikit-Learn, SMOTE | **Best Practice.** Built a robust model ensuring **no data leakage** by applying Scaling & SMOTE *after* data splitting. |
 | **[Stunting Analysis](https://github.com/viochris/Stunting-prediction-project)** | Tabular | SMOTENC, Tree Viz | Handling categorical imbalance with **SMOTENC** and visualizing decision paths (Pruned Tree) for interpretability. |
 | **[Review Sentiment Analyzer](https://github.com/viochris/Simple-Sentiment-Analysis)** | NLP | Transformers, Python | Leveraging **Hugging Face** pre-trained models to accurately classify text sentiment (Positive/Negative). |
