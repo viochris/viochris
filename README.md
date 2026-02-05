@@ -90,6 +90,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
+| **[Resume Scanner API](https://github.com/viochris/resume-scanner-api)** | NLP / ATS | FastAPI, SBERT, TF-IDF | **Dual-Engine ATS Optimizer.** A stateless API analyzing resumes against job descriptions. Features **Strict Mode** (TF-IDF) for keyword matching and **Flexible Mode** (SBERT) for semantic relevance. |
 | **[Portfolio API (Backend)](https://github.com/viochris/silvio-portfolio-api)** | Backend / API | FastAPI, Docker, FAISS | **Headless RAG Engine.** The high-performance backend serving the portfolio data. Features **Swagger UI** for testing, structured JSON responses with **Source Citations**, and fully Dockerized deployment on Hugging Face Spaces. |
 | **[Stuntify API (MLOps)](https://github.com/viochris/Stuntify-API)** | API / MLOps | FastAPI, Pydantic, Scikit-Learn | **High-Performance Engine.** A robust inference system using **FastAPI** to serve real-time stunting predictions. Features strict **Type Coercion**, multi-artifact orchestration, and interactive Swagger documentation. |
 | **[Insightify API (NLP)](https://github.com/viochris/Insightify-Sentiment-API)** | NLP / API | FastAPI, Transformers, Pandas | **Dual-Lingual Analytics.** NLP microservice for **English & Indonesian** sentiment using **RoBERTa**. Features **Batch Processing** (Excel/CSV), N-Gram keyword extraction, and automated text statistics. |
