@@ -18,6 +18,7 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
 - [🚀 Featured Projects](#-featured-projects)
   - [🤖 GenAI & Interactive Applications](#-genai--interactive-applications)
   - [🔌 Backend & Deployment (MLOps)](#-backend--deployment-mlops)
+  - [⚙️ Automation & Orchestration](#-automation--orchestration)
   - [📊 Data Science (Applied ML & Model Building)](#-data-science-applied-ml--model-building)
   - [📈 Data Analytics & Visualization](#-data-analytics--visualization)
   - [🎮 Experimental & Fun Projects](#-experimental--fun-projects)
@@ -95,6 +96,14 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 | **[Stuntify API (MLOps)](https://github.com/viochris/Stuntify-API)** | API / MLOps | FastAPI, Pydantic, Scikit-Learn | **High-Performance Engine.** A robust inference system using **FastAPI** to serve real-time stunting predictions. Features strict **Type Coercion**, multi-artifact orchestration, and interactive Swagger documentation. |
 | **[Insightify API (NLP)](https://github.com/viochris/Insightify-Sentiment-API)** | NLP / API | FastAPI, Transformers, Pandas | **Dual-Lingual Analytics.** NLP microservice for **English & Indonesian** sentiment using **RoBERTa**. Features **Batch Processing** (Excel/CSV), N-Gram keyword extraction, and automated text statistics. |
 | **[Stunting Prediction API](https://github.com/viochris/API-Stuntify)** | API / MLOps | Flask, Python | **Deployment.** Serving the stunting prediction model as a **RESTful API** for real-time inference using Flask. |
+
+#### ⚙️ Automation & Orchestration
+*Scheduled workflows, autonomous bots, and task management systems.*
+
+| Project Name | Domain | Key Tech | Description |
+| :--- | :---: | :---: | :--- |
+| **[Automated Image Pipeline](https://github.com/viochris/automated-image-pipeline)** | Orchestration | Prefect, Hugging Face, GSheets | **Autonomous Art Bot.** An orchestrated workflow that manages the lifecycle of AI art generation: fetches prompts from sheets, handles API constraints, and publishes to Telegram automatically. |
+| **[Daily Quote Automator](https://github.com/viochris/trial-simple-quote-bot)** | Automation | Prefect, Gemini Flash, Telegram | **Scheduled AI Agent.** A "Set-and-Forget" automation that wakes up daily to synthesize developer-focused motivation using **Gemini 2.5** and delivers it to community channels. |
 
 #### 📊 Data Science (Applied ML & Model Building)
 *In-depth data analysis, model training, NLP implementation, and academic research.*
