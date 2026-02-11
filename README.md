@@ -102,6 +102,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
+| **[Daily AI News Digest](https://github.com/viochris/daily-ai-news-digest)** | Orchestration | Prefect, DuckDuckGo, Gemini Flash | **Autonomous Intelligence Agent.** A fully automated pipeline that scrapes real-time news via **DuckDuckGo**, synthesizes summaries with **Gemini**, and delivers daily digests to Telegram with fail-fast logic. |
 | **[Automated Image Pipeline](https://github.com/viochris/automated-image-pipeline)** | Orchestration | Prefect, Hugging Face, GSheets | **Autonomous Art Bot.** An orchestrated workflow that manages the lifecycle of AI art generation: fetches prompts from sheets, handles API constraints, and publishes to Telegram automatically. |
 | **[Daily Quote Automator](https://github.com/viochris/trial-simple-quote-bot)** | Automation | Prefect, Gemini Flash, Telegram | **Scheduled AI Agent.** A "Set-and-Forget" automation that wakes up daily to synthesize developer-focused motivation using **Gemini 2.5** and delivers it to community channels. |
 
@@ -110,6 +111,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
+| **[SpendSense (Financial AI)](https://github.com/viochris/Streamlit-SpendSense)** | GenAI / App | Streamlit, LangChain, Gemini Vision | **Conversational Finance App.** Integrates **Pandas Agent** for natural language queries ("How much did I spend on food?"), **Gemini Vision** for OCR receipt scanning, and automated ETL with Google Sheets. |
 | **[Streamlit Resume Scanner](https://github.com/viochris/streamlit-resume-scanner)** | NLP / Applied ML | SBERT, Scikit-Learn, Streamlit | **Dual-Engine CV Analyzer.** A hybrid NLP tool combining **Strict ATS Logic** (TF-IDF) and **Semantic Search** (SBERT Embeddings) to calculate resume-job fit and detect missing keywords. |
 | **[Diabetes Prediction (Robust)](https://github.com/viochris/Diabetes-prediction-fine-tuned-project)** | Tabular | Scikit-Learn, SMOTE | **Best Practice.** Built a robust model ensuring **no data leakage** by applying Scaling & SMOTE *after* data splitting. |
 | **[Stunting Analysis](https://github.com/viochris/Stunting-prediction-project)** | Tabular | SMOTENC, Tree Viz | Handling categorical imbalance with **SMOTENC** and visualizing decision paths (Pruned Tree) for interpretability. |
