@@ -51,6 +51,7 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-0769AD?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-092E20?style=for-the-badge&logo=meta&logoColor=white)
 
 **Web Frameworks & UI:**
