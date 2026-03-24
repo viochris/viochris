@@ -47,29 +47,34 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**NLP, GenAI & VectorDB:**
+**NLP, GenAI & LLMOps:**
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-0769AD?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-0769AD?style=for-the-badge&logo=probot&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-092E20?style=for-the-badge&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 **Web Frameworks & UI:**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Automation, Bots & DevOps:**
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-0052FF?style=for-the-badge)
+![Prefect](https://img.shields.io/badge/Prefect-0052FF?style=for-the-badge&logo=prefect&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Databases:**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Visualization:**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+**Data Analytics & Visualization:**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white)
 
 **Environment & Tools:**
@@ -77,6 +82,21 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Firebase Studio (IDX)](https://img.shields.io/badge/Firebase_Studio_(IDX)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+<br>
+
+### 🌱 Currently Exploring & Next on My Radar
+*Technologies I am actively learning and integrating into upcoming projects.*
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-2A2B2E?style=for-the-badge&logo=python&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-1A9E38?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
+![Phoenix Arize](https://img.shields.io/badge/Phoenix%20Arize-E15E28?style=for-the-badge)
+![FastMCP](https://img.shields.io/badge/FastMCP-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
