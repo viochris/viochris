@@ -157,6 +157,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
+| **[Depression Predictor](https://github.com/viochris/Depression-Prediction)** | Tabular | Scikit-Learn, Streamlit, ImbPipeline | **Comparative ML Pipeline.** An end-to-end web app demonstrating a complete workflow: baseline modeling, handling rare categories, and addressing class imbalance. *(Note: Developed for a university assignment to demonstrate preprocessing techniques).* |
 | **[SpendSense (Financial AI)](https://github.com/viochris/Streamlit-SpendSense)** | GenAI / App | Streamlit, LangChain, Gemini Vision | **Conversational Finance App.** Integrates **Pandas Agent** for natural language queries ("How much did I spend on food?"), **Gemini Vision** for OCR receipt scanning, and automated ETL with Google Sheets. |
 | **[Streamlit Resume Scanner](https://github.com/viochris/streamlit-resume-scanner)** | NLP / Applied ML | SBERT, Scikit-Learn, Streamlit | **Dual-Engine CV Analyzer.** A hybrid NLP tool combining **Strict ATS Logic** (TF-IDF) and **Semantic Search** (SBERT Embeddings) to calculate resume-job fit and detect missing keywords. |
 | **[Diabetes Prediction (Robust)](https://github.com/viochris/Diabetes-prediction-fine-tuned-project)** | Tabular | Scikit-Learn, SMOTE | **Best Practice.** Built a robust model ensuring **no data leakage** by applying Scaling & SMOTE *after* data splitting. |
