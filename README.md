@@ -309,6 +309,73 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 180.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 802 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 74 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                319 commits         ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+🌆 Daytime                655 commits         ███████████████░░░░░░░░░░   58.22 % 
+🌃 Evening                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Tuesday                  157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Wednesday                160 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Thursday                 142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Friday                   255 commits         ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Saturday                 181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Sunday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   43 repos            ██████████████░░░░░░░░░░░   57.33 % 
+Jupyter Notebook         12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+```
+
+
+
+
+ Last Updated on 15/07/2026 10:05:16 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
