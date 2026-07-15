@@ -56,6 +56,7 @@ I am a 7th-semester Informatics Engineering student at **Universitas Dian Nuswan
   - [📊 Data Science (Applied ML & Model Building)](#-data-science-applied-ml--model-building)
   - [📈 Data Analytics & Visualization](#-data-analytics--visualization)
   - [🎮 Experimental & Fun Projects](#-experimental--fun-projects)
+- [✍️ Latest Blog Posts](#%EF%B8%8F-latest-blog-posts-medium)
 - [📈 GitHub Stats](#-github-stats)
 - [📫 Connect with Me & Resume](#-connect-with-me--resume)
 
@@ -270,6 +271,15 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=LATEST%20BLOG%20POSTS&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</div>
+
+### ✍️ Latest Blog Posts (Medium)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=GITHUB%20STATS&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
 
@@ -280,14 +290,27 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/viochris/viochris/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="32%" />
-  <img src="https://raw.githubusercontent.com/viochris/viochris/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="32%" />
-  <img src="https://raw.githubusercontent.com/viochris/viochris/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" width="32%" />
+  <img src="https://raw.githubusercontent.com/viochris/viochris/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="330" height="200" />
+  <img src="https://raw.githubusercontent.com/viochris/viochris/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="330" height="200" />
+  <img src="https://raw.githubusercontent.com/viochris/viochris/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" width="330" height="200" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-six-psi-931ch0bgi8.vercel.app/api?username=viochris&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-six-psi-931ch0bgi8.vercel.app/api/top-langs/?username=viochris&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats-six-psi-931ch0bgi8.vercel.app/api?username=viochris&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="480" height="195" />
+  <img src="https://github-readme-stats-six-psi-931ch0bgi8.vercel.app/api/top-langs/?username=viochris&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="330" height="195" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=WEEKLY%20CODING%20ACTIVITY&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</div>
+
+### ⏱️ WakaTime Weekly Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=GITHUB%20TROPHIES%20%2B%20CONTRIBUTION&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
@@ -310,6 +333,12 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viochris/viochris/main/profile-3d-contrib/profile-green-animate.svg" />
     <img src="https://raw.githubusercontent.com/viochris/viochris/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Contribution Calendar" width="100%" />
   </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/viochris/viochris/master/metrics.plugin.isocalendar.svg" alt="GitHub Metrics Isometric Calendar" width="100%" />
 </div>
 
 ---
