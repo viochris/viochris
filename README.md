@@ -317,7 +317,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
  > 
 > 🏆 802 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 74 Public Repositories 
  > 
@@ -375,7 +375,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2026 10:05:16 UTC
+ Last Updated on 15/07/2026 14:03:17 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
