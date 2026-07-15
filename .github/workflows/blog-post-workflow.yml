@@ -1,0 +1,22 @@
+name: Latest Blog Post Workflow
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs automatically once a day
+  workflow_dispatch:         # allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@silviochristian"
