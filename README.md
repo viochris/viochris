@@ -8,7 +8,7 @@
 
 <br>
 
-![University](https://img.shields.io/badge/Universitas_Dian_Nuswantoro-6th_Semester-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![University](https://img.shields.io/badge/Universitas_Dian_Nuswantoro-7th_Semester-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Semarang%2C_Indonesia-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br>
@@ -42,7 +42,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400" height="260" alt="Real Coding" />
 </div>
 
-I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswantoro (UDINUS)**, Indonesia. My journey is driven by curiosity—turning raw data into meaningful stories. I specialize in mining insights from structured numbers (**Tabular**) and unstructured language (**Text/NLP**).
+I am a 7th-semester Informatics Engineering student at **Universitas Dian Nuswantoro (UDINUS)**, Indonesia. My journey is driven by curiosity—turning raw data into meaningful stories. I specialize in mining insights from structured numbers (**Tabular**) and unstructured language (**Text/NLP**).
 
 ---
 ## 📚 Table of Contents
@@ -280,9 +280,9 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards-eight.vercel.app/api/cards/profile-details?username=viochris&theme=radical" alt="Profile Details" width="32%" />
-  <img src="https://github-profile-summary-cards-eight.vercel.app/api/cards/productive-time?username=viochris&theme=radical&utcOffset=7" alt="Productive Time" width="32%" />
-  <img src="https://github-profile-summary-cards-eight.vercel.app/api/cards/most-commit-language?username=viochris&theme=radical" alt="Most Commit Language" width="32%" />
+  <img src="https://raw.githubusercontent.com/viochris/viochris/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="32%" />
+  <img src="https://raw.githubusercontent.com/viochris/viochris/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="32%" />
+  <img src="https://raw.githubusercontent.com/viochris/viochris/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" width="32%" />
 </div>
 
 <div align="center">
