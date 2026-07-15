@@ -1,11 +1,45 @@
-# Hi there, I'm Vio! 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Vio!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Computer+Science+Student;NLP+%26+GenAI+Explorer;Turning+Data+Into+Stories" alt="Typing SVG" />
+</a>
+
+<br>
+
+![University](https://img.shields.io/badge/Universitas_Dian_Nuswantoro-5th_Semester-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Semarang%2C_Indonesia-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br>
+
+<a href="https://silvio-ai-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/silvio-christian-joe">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:viochristian12@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/viochris">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=viochris&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/viochris?style=for-the-badge&color=6d28d9&labelColor=1a1a1a&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/viochris?style=for-the-badge&color=a78bfa&labelColor=1a1a1a&logo=github&logoColor=white&label=STARS)
+
+</div>
 
 ### A Data Science Enthusiast & Computer Science Student
 
 <div align="center">
-  <img src="coding-animation.gif" width="48%" alt="Coding Animation" />
-  &nbsp;
-  <img src="coding-real.gif" width="48%" alt="Real Coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" height="260" alt="Coding Animation" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400" height="260" alt="Real Coding" />
 </div>
 
 I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswantoro (UDINUS)**, Indonesia. My journey is driven by curiosity—turning raw data into meaningful stories. I specialize in mining insights from structured numbers (**Tabular**) and unstructured language (**Text/NLP**).
@@ -27,6 +61,10 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
 
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=WHAT%20I'M%20FOCUSING%20ON&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</div>
+
 ### 🧐 What I'm Focusing On
 
 * **Data Science:** Exploratory Data Analysis (EDA), Feature Engineering, and Model Building.
@@ -35,7 +73,17 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
 
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=TECH%20STACK%20%2B%20TOOLS&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</div>
+
 ### <a name="tech-stack"></a>🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,flask,docker,mysql,git,vscode&theme=dark&perline=9" alt="Skill Icons" />
+</div>
+
+<br>
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -88,6 +136,10 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
 
 <br>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=55&section=header&text=CURRENTLY%20EXPLORING&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</div>
+
 ### 🌱 Currently Exploring & Next on My Radar
 *Technologies I am actively learning and integrating into upcoming projects.*
 
@@ -100,12 +152,34 @@ I am a 5th-semester Informatics Engineering student at **Universitas Dian Nuswan
 
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=FEATURED%20PROJECTS&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</div>
+
 ### 🚀 Featured Projects
 
 Here is a comprehensive list of my Data Science & AI projects, ranging from robust predictive modeling to API deployment and NLP exploration:
 
+**🌟 Top Repositories:**
+
+<div align="center">
+  <a href="https://github.com/viochris/InsightSQL-LangGraph-Engine-Web">
+    <img src="https://github-readme-stats-six-psi-931ch0bgi8.vercel.app/api/pin/?username=viochris&repo=InsightSQL-LangGraph-Engine-Web&theme=radical&hide_border=true" alt="InsightSQL LangGraph" width="32%" />
+  </a>
+  <a href="https://github.com/viochris/auto-readme-generator">
+    <img src="https://github-readme-stats-six-psi-931ch0bgi8.vercel.app/api/pin/?username=viochris&repo=auto-readme-generator&theme=radical&hide_border=true" alt="Auto-README Generator" width="32%" />
+  </a>
+  <a href="https://github.com/viochris/Streamlit-SpendSense">
+    <img src="https://github-readme-stats-six-psi-931ch0bgi8.vercel.app/api/pin/?username=viochris&repo=Streamlit-SpendSense&theme=radical&hide_border=true" alt="SpendSense" width="32%" />
+  </a>
+</div>
+
+<br>
+
 #### 🤖 GenAI & Interactive Applications
 *Interactive AI agents and chatbots powered by RAG and LLMs.*
+
+![Projects](https://img.shields.io/badge/10_Projects-8B5CF6?style=flat-square&logo=googlegemini&logoColor=white)
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
@@ -123,6 +197,8 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 #### 🔌 Backend & Deployment (MLOps)
 *High-performance APIs and production-ready inference engines.*
 
+![Projects](https://img.shields.io/badge/5_Projects-7C3AED?style=flat-square&logo=fastapi&logoColor=white)
+
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
 | **[Resume Scanner API](https://github.com/viochris/resume-scanner-api)** | NLP / ATS | FastAPI, SBERT, TF-IDF | **Dual-Engine ATS Optimizer.** A stateless API analyzing resumes against job descriptions. Features **Strict Mode** (TF-IDF) for keyword matching and **Flexible Mode** (SBERT) for semantic relevance. |
@@ -133,6 +209,8 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 #### ⚙️ Automation & Orchestration
 *Scheduled workflows, autonomous bots, and task management systems.*
+
+![Projects](https://img.shields.io/badge/15_Projects-6D28D9?style=flat-square&logo=prefect&logoColor=white)
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
@@ -155,6 +233,8 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 #### 📊 Data Science (Applied ML & Model Building)
 *In-depth data analysis, model training, NLP implementation, and academic research.*
 
+![Projects](https://img.shields.io/badge/7_Projects-5B21B6?style=flat-square&logo=scikitlearn&logoColor=white)
+
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
 | **[Depression Predictor](https://github.com/viochris/Depression-Prediction)** | Tabular | Scikit-Learn, Streamlit, ImbPipeline | **Comparative ML Pipeline.** An end-to-end web app demonstrating a complete workflow: baseline modeling, handling rare categories, and addressing class imbalance. *(Note: Developed for a university assignment to demonstrate preprocessing techniques).* |
@@ -168,6 +248,8 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 #### 📈 Data Analytics & Visualization
 *Focusing on exploratory data analysis (EDA), business intelligence dashboards, and visual storytelling.*
 
+![Projects](https://img.shields.io/badge/2_Projects-4C1D95?style=flat-square&logo=tableau&logoColor=white)
+
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
 | **[Supermarket Sales Dashboard](https://public.tableau.com/views/SupermarketSalesDashboard_17081427139270/Dashboard1)** | Retail Analytics | Tableau Public | **Sales & Operations.** Dashboard monitoring Total Sales, COGS, and Customer Ratings across major cities. Features breakdown by **Payment Methods** (E-wallet/Cash) and **Product Line** performance. |
@@ -175,6 +257,8 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 #### 🎮 Experimental & Fun Projects
 *Creative coding projects exploring logic flows, real-time communication, and game-like interactions.*
+
+![Projects](https://img.shields.io/badge/2_Projects-8B5CF6?style=flat-square&logo=probot&logoColor=white)
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
@@ -185,14 +269,54 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=GITHUB%20STATS&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</div>
+
 ### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viochris&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viochris&theme=radical" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards-eight.vercel.app/api/cards/profile-details?username=viochris&theme=radical" alt="Profile Details" width="32%" />
+  <img src="https://github-profile-summary-cards-eight.vercel.app/api/cards/productive-time?username=viochris&theme=radical&utcOffset=7" alt="Productive Time" width="32%" />
+  <img src="https://github-profile-summary-cards-eight.vercel.app/api/cards/most-commit-language?username=viochris&theme=radical" alt="Most Commit Language" width="32%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-six-psi-931ch0bgi8.vercel.app/api?username=viochris&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-six-psi-931ch0bgi8.vercel.app/api/top-langs/?username=viochris&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy-nu-two.vercel.app/?username=viochris&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viochris&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/viochris/viochris/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viochris/viochris/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viochris/viochris/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/viochris/viochris/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Contribution Calendar" width="100%" />
+  </picture>
 </div>
 
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=CONNECT%20WITH%20ME&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</div>
 
 ### 📫 Connect with Me & Resume
 
@@ -215,5 +339,17 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 </div>
 
+<br>
+
+<div align="center">
+
+💜 **If you find my work interesting, consider giving a star to my repositories!** 💜
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fviochris%2Fviochris&label=VISITORS&countColor=%238B5CF6&style=for-the-badge)
+
+</div>
+
 ---
-*"Data is the new oil, but it’s useless without the engine to refine it."*
+*"Data is the new oil, but it's useless without the engine to refine it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
