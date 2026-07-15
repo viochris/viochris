@@ -8,7 +8,7 @@
 
 <br>
 
-![University](https://img.shields.io/badge/Universitas_Dian_Nuswantoro-5th_Semester-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![University](https://img.shields.io/badge/Universitas_Dian_Nuswantoro-6th_Semester-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Semarang%2C_Indonesia-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br>
