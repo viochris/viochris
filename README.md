@@ -276,9 +276,18 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 ### ✍️ Latest Blog Posts (Medium)
 
-<!-- BLOG-POST-LIST:START -->
-- [Before You Use AI, Understand This First](https://medium.com/@silviochristian/before-you-use-ai-understand-this-first-875525807755?source=rss-f2e3f8063afa------2)
-- [Why Label Encoding is Ruining Your ML Models &lpar;And How to Fix It&rpar;](https://medium.com/@silviochristian/why-label-encoding-is-ruining-your-ml-models-and-how-to-fix-it-d83eab34e7f3?source=rss-f2e3f8063afa------2)
+<!-- BLOG-POST-LIST:START -->#### 📝 [Before You Use AI, Understand This First](https://medium.com/@silviochristian/before-you-use-ai-understand-this-first-875525807755?source=rss-f2e3f8063afa------2)
+*Published: May 29, 2026*
+
+...
+
+---
+#### 📝 [Why Label Encoding is Ruining Your ML Models &lpar;And How to Fix It&rpar;](https://medium.com/@silviochristian/why-label-encoding-is-ruining-your-ml-models-and-how-to-fix-it-d83eab34e7f3?source=rss-f2e3f8063afa------2)
+*Published: Apr 19, 2026*
+
+...
+
+---
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
