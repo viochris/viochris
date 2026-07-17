@@ -37,6 +37,16 @@
 ### A Data Science Enthusiast & Computer Science Student
 
 <div align="center">
+  <picture>
+    <source media="(min-width: 769px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viochris/viochris/main/assets/ascii-portrait/agent-console-ffa7a121-dark.svg">
+    <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viochris/viochris/main/assets/ascii-portrait/agent-console-ffa7a121-light.svg">
+    <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viochris/viochris/main/assets/ascii-portrait/agent-console-ffa7a121-mobile-dark.svg">
+    <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viochris/viochris/main/assets/ascii-portrait/agent-console-ffa7a121-mobile-light.svg">
+    <img src="https://raw.githubusercontent.com/viochris/viochris/main/assets/ascii-portrait/agent-console-ffa7a121-light.svg" alt="ASCII Portrait Animation" width="100%">
+  </picture>
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" height="260" alt="Coding Animation" />
   &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400" height="260" alt="Real Coding" />
@@ -248,8 +258,6 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 #### 📈 Data Analytics & Visualization
 *Focusing on exploratory data analysis (EDA), business intelligence dashboards, and visual storytelling.*
-
-![Projects](https://img.shields.io/badge/2_Projects-4C1D95?style=flat-square&logo=tableau&logoColor=white)
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
