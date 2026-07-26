@@ -318,6 +318,8 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 181.0 kB Used in GitHub's Storage 
@@ -382,7 +384,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 01:54:33 UTC
+ Last Updated on 26/07/2026 01:58:41 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
