@@ -318,11 +318,9 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 181.0 kB Used in GitHub's Storage 
+> 📦 181.1 kB Used in GitHub's Storage 
  > 
 > 🏆 807 Contributions in the Year 2026
  > 
@@ -359,20 +357,20 @@ Sunday                   115 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 17 mins       █████████████████████████   98.34 % 
-Nix                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Python                   3 hrs 18 mins       ████████████████████████░   97.92 % 
+Nix                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 3 hrs 20 mins       █████████████████████████   100.00 % 
+ai-resep                 3 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -394,7 +392,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 01:48:22 UTC
+ Last Updated on 29/07/2026 01:50:26 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
