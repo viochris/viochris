@@ -318,6 +318,8 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2022%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 181.1 kB Used in GitHub's Storage 
@@ -357,20 +359,20 @@ Sunday                   115 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 18 mins       ████████████████████████░   97.92 % 
-Nix                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   7 hrs 5 mins        █████████████████████████   98.88 % 
+Nix                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 3 hrs 22 mins       █████████████████████████   100.00 % 
+ai-resep                 7 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -392,7 +394,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 01:50:26 UTC
+ Last Updated on 30/07/2026 01:43:29 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
