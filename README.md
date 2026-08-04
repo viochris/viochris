@@ -318,13 +318,11 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%204%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 187.0 kB Used in GitHub's Storage 
+> 📦 187.1 kB Used in GitHub's Storage 
  > 
-> 🏆 842 Contributions in the Year 2026
+> 🏆 846 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -335,21 +333,21 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                338 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-🌆 Daytime                671 commits         ██████████████░░░░░░░░░░░   57.84 % 
-🌃 Evening                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+🌞 Morning                338 commits         ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+🌆 Daytime                675 commits         ██████████████░░░░░░░░░░░   57.99 % 
+🌃 Evening                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Tuesday                  157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Wednesday                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Thursday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Friday                   257 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Saturday                 197 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Sunday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Monday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Tuesday                  157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Wednesday                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Thursday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Friday                   257 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Saturday                 197 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Sunday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 ```
 
 
@@ -359,20 +357,19 @@ Sunday                   124 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   7 hrs 58 mins       █████████████████████████   98.75 % 
-Nix                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   4 hrs 58 mins       ████████████████████████░   96.39 % 
+Nix                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 8 hrs 4 mins        █████████████████████████   100.00 % 
+ai-resep                 5 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -394,7 +391,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 02:00:09 UTC
+ Last Updated on 04/08/2026 01:46:16 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
