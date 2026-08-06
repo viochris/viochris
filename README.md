@@ -208,10 +208,11 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 #### 🔌 Backend & Deployment (MLOps)
 *High-performance APIs and production-ready inference engines.*
 
-![Projects](https://img.shields.io/badge/5_Projects-7C3AED?style=flat-square&logo=fastapi&logoColor=white)
+![Projects](https://img.shields.io/badge/6_Projects-7C3AED?style=flat-square&logo=fastapi&logoColor=white)
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
+| **[Maternal Health Risk API](https://github.com/viochris/Maternal-Health-Risk-API)** | API / MLOps | FastAPI, Pydantic, CatBoost, LIME | **Explainable Risk-Triage Microservice.** A RESTful backend serving a tuned CatBoost classifier via `/predict` and `/explain` endpoints, returning both a risk classification and an interactive LIME explanation. Features strict Pydantic input validation against clinical vital-sign bounds and structured, multi-category error handling. |
 | **[Resume Scanner API](https://github.com/viochris/resume-scanner-api)** | NLP / ATS | FastAPI, SBERT, TF-IDF | **Dual-Engine ATS Optimizer.** A stateless API analyzing resumes against job descriptions. Features **Strict Mode** (TF-IDF) for keyword matching and **Flexible Mode** (SBERT) for semantic relevance. |
 | **[Portfolio API (Backend)](https://github.com/viochris/silvio-portfolio-api)** | Backend / API | FastAPI, Docker, FAISS | **Headless RAG Engine.** The high-performance backend serving the portfolio data. Features **Swagger UI** for testing, structured JSON responses with **Source Citations**, and fully Dockerized deployment on Hugging Face Spaces. |
 | **[Stuntify API (MLOps)](https://github.com/viochris/Stuntify-API)** | API / MLOps | FastAPI, Pydantic, Scikit-Learn | **High-Performance Engine.** A robust inference system using **FastAPI** to serve real-time stunting predictions. Features strict **Type Coercion**, multi-artifact orchestration, and interactive Swagger documentation. *(Note: Trained on synthetic data and for demonstration purposes only)*. |
@@ -244,10 +245,13 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 #### 📊 Data Science (Applied ML & Model Building)
 *In-depth data analysis, model training, NLP implementation, and academic research.*
 
-![Projects](https://img.shields.io/badge/7_Projects-5B21B6?style=flat-square&logo=scikitlearn&logoColor=white)
+![Projects](https://img.shields.io/badge/10_Projects-5B21B6?style=flat-square&logo=scikitlearn&logoColor=white)
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
+| **[Maternal Health Risk (Research)](https://github.com/viochris/Maternal-Health-Risk-Model-Research)** | Tabular | CatBoost, imbalanced-learn, LIME | **Clinical Risk Benchmarking.** Compared 6 classifiers against 6 class-imbalance handling techniques to predict maternal health risk from vital signs, then tuned and interpreted the best model with LIME. *(Trained on the UCI Maternal Health Risk dataset from rural Bangladesh)*. |
+| **[Maternal Health Risk (Streamlit)](https://github.com/viochris/Maternal-Health-Risk-Streamlit)** | Tabular / App | Streamlit, CatBoost, LIME | **Dual-Architecture Demo App.** Two parallel Streamlit dashboards for the same risk model: a self-contained version running inference in-process, and a client version consuming a separate FastAPI backend, illustrating monolithic vs. decoupled deployment patterns side by side. |
+| **[Maternal Health Risk (Gradio)](https://github.com/viochris/Maternal-Health-Risk-Gradio)** | Tabular / App | Gradio, CatBoost, LIME | **Dual-Architecture Demo App.** The Gradio counterpart to the Streamlit app above, offering the same in-process vs. API-client comparison with a Gradio-based UI and embedded LIME explanations. |
 | **[Depression Predictor](https://github.com/viochris/Depression-Prediction)** | Tabular | Scikit-Learn, Streamlit, ImbPipeline | **Comparative ML Pipeline.** An end-to-end web app demonstrating a complete workflow: baseline modeling, handling rare categories, and addressing class imbalance. *(Note: Developed for a university assignment to demonstrate preprocessing techniques).* |
 | **[SpendSense (Financial AI)](https://github.com/viochris/Streamlit-SpendSense)** | GenAI / App | Streamlit, LangChain, Gemini Vision | **Conversational Finance App.** Integrates **Pandas Agent** for natural language queries ("How much did I spend on food?"), **Gemini Vision** for OCR receipt scanning, and automated ETL with Google Sheets. |
 | **[Streamlit Resume Scanner](https://github.com/viochris/streamlit-resume-scanner)** | NLP / Applied ML | SBERT, Scikit-Learn, Streamlit | **Dual-Engine CV Analyzer.** A hybrid NLP tool combining **Strict ATS Logic** (TF-IDF) and **Semantic Search** (SBERT Embeddings) to calculate resume-job fit and detect missing keywords. |
