@@ -322,15 +322,11 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2030%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 187.3 kB Used in GitHub's Storage 
+> 📦 187.5 kB Used in GitHub's Storage 
  > 
-> 🏆 854 Contributions in the Year 2026
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -338,55 +334,6 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                344 commits         ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-🌆 Daytime                676 commits         ██████████████░░░░░░░░░░░   57.63 % 
-🌃 Evening                152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Tuesday                  159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Wednesday                167 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Thursday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Friday                   257 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Saturday                 197 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Sunday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Python                   3 hrs 19 mins       ████████████████████████░   94.60 % 
-Nix                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ai-resep                 3 hrs 31 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    3 hrs 31 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -400,7 +347,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:48:33 UTC
+ Last Updated on 07/08/2026 02:12:43 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
