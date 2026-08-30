@@ -365,20 +365,18 @@ Sunday                   127 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   13 hrs 47 mins      ████████████████████████░   94.44 % 
-Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   7 hrs 47 mins       ███████████████████████░░   92.09 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 14 hrs 36 mins      █████████████████████████   100.00 % 
+ai-resep                 8 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -400,7 +398,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 04:55:34 UTC
+ Last Updated on 30/08/2026 02:40:07 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
