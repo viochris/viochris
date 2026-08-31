@@ -328,7 +328,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 **🐱 My GitHub Data** 
 
-> 📦 188.0 kB Used in GitHub's Storage 
+> 📦 187.7 kB Used in GitHub's Storage 
  > 
 > 🏆 870 Contributions in the Year 2026
  > 
@@ -365,18 +365,18 @@ Sunday                   127 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   7 hrs 47 mins       ███████████████████████░░   92.09 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Python                   3 hrs 46 mins       ██████████████████████░░░   89.61 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 8 hrs 27 mins       █████████████████████████   100.00 % 
+ai-resep                 4 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -398,7 +398,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 02:40:07 UTC
+ Last Updated on 31/08/2026 02:33:26 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
