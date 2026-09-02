@@ -322,13 +322,13 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 187.7 kB Used in GitHub's Storage 
+> 📦 187.8 kB Used in GitHub's Storage 
  > 
 > 🏆 870 Contributions in the Year 2026
  > 
@@ -365,18 +365,20 @@ Sunday                   127 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   4 hrs 55 mins       ███████████████████████░░   91.85 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Python                   8 hrs 49 mins       ████████████████████████░   96.63 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 5 hrs 21 mins       █████████████████████████   100.00 % 
+ai-resep                 9 hrs 1 min         █████████████████████████   98.91 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-Linux                    5 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 1 min         █████████████████████████   98.91 % 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -398,7 +400,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 02:48:09 UTC
+ Last Updated on 02/09/2026 02:08:52 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
