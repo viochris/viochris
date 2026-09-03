@@ -245,7 +245,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 #### 📊 Data Science (Applied ML & Model Building)
 *In-depth data analysis, model training, NLP implementation, and academic research.*
 
-![Projects](https://img.shields.io/badge/10_Projects-5B21B6?style=flat-square&logo=scikitlearn&logoColor=white)
+![Projects](https://img.shields.io/badge/11_Projects-5B21B6?style=flat-square&logo=scikitlearn&logoColor=white)
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
