@@ -323,40 +323,40 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 187.8 kB Used in GitHub's Storage 
+> 📦 188.1 kB Used in GitHub's Storage 
  > 
-> 🏆 870 Contributions in the Year 2026
+> 🏆 886 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 79 Public Repositories 
+> 📜 80 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                353 commits         ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-🌆 Daytime                682 commits         ██████████████░░░░░░░░░░░   57.41 % 
-🌃 Evening                152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+🌞 Morning                359 commits         ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+🌆 Daytime                691 commits         ██████████████░░░░░░░░░░░   57.44 % 
+🌃 Evening                152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Tuesday                  166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Wednesday                169 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Thursday                 147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Friday                   257 commits         █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Saturday                 197 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Sunday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Monday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Tuesday                  166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Wednesday                178 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Thursday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Friday                   257 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Saturday                 197 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Sunday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 ```
 
 
@@ -366,20 +366,21 @@ Sunday                   127 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   8 hrs 49 mins       ████████████████████████░   96.63 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   10 hrs 20 mins      ███████████████████████░░   93.43 % 
+Nix                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  11 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 9 hrs 1 min         █████████████████████████   98.91 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+ai-resep                 10 hrs 57 mins      █████████████████████████   99.10 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Linux                    9 hrs 1 min         █████████████████████████   98.91 % 
-Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Linux                    10 hrs 57 mins      █████████████████████████   99.10 % 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -391,17 +392,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   47 repos            ███████████████░░░░░░░░░░   58.75 % 
-Jupyter Notebook         13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Python                   48 repos            ███████████████░░░░░░░░░░   59.26 % 
+Jupyter Notebook         13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 
 
 
- Last Updated on 02/09/2026 02:08:52 UTC
+ Last Updated on 03/09/2026 02:14:35 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
