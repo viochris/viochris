@@ -323,7 +323,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
@@ -366,21 +366,20 @@ Sunday                   127 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   10 hrs 20 mins      ███████████████████████░░   93.43 % 
-Nix                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Python                   7 hrs 15 mins       ███████████████████████░░   92.21 % 
+Nix                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 10 hrs 57 mins      █████████████████████████   99.10 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+ai-resep                 7 hrs 45 mins       █████████████████████████   98.74 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
-Linux                    10 hrs 57 mins      █████████████████████████   99.10 % 
-Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Linux                    7 hrs 45 mins       █████████████████████████   98.74 % 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -402,7 +401,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 02:14:35 UTC
+ Last Updated on 04/09/2026 02:10:37 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
