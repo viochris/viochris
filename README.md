@@ -65,6 +65,7 @@ I am a 7th-semester Informatics Engineering student at **Universitas Dian Nuswan
   - [⚙️ Automation & Orchestration](#%EF%B8%8F-automation--orchestration)
   - [📊 Data Science (Applied ML & Model Building)](#-data-science-applied-ml--model-building)
   - [📈 Data Analytics & Visualization](#-data-analytics--visualization)
+  - [🎨 Vibe Coding Projects](#-vibe-coding-projects)
   - [🎮 Experimental & Fun Projects](#-experimental--fun-projects)
 - [✍️ Latest Blog Posts](#%EF%B8%8F-latest-blog-posts-medium)
 - [📈 GitHub Stats](#-github-stats)
@@ -271,6 +272,16 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 | :--- | :---: | :---: | :--- |
 | **[Supermarket Sales Dashboard](https://public.tableau.com/views/SupermarketSalesDashboard_17081427139270/Dashboard1)** | Retail Analytics | Tableau Public | **Sales & Operations.** Dashboard monitoring Total Sales, COGS, and Customer Ratings across major cities. Features breakdown by **Payment Methods** (E-wallet/Cash) and **Product Line** performance. |
 | **[Bike Sales Dashboard](https://public.tableau.com/views/BikeSalesDashboard_17081369078430/Dashboard1)** | Executive Sales | Tableau Public | **Revenue Tracker.** High-level executive view of Revenue and Unit Sales. Analyzes performance by **US States**, **Brand Names**, and identifies **Top 10 High-Value Customers**. |
+
+#### 🎨 Vibe Coding Projects
+*Interactive, front-end-heavy web apps built end-to-end through "vibe coding" (AI-assisted, prompt-driven development in Google AI Studio with Gemini), showcasing versatility beyond my core Data Science/AI focus.*
+
+![Projects](https://img.shields.io/badge/2_Projects-A78BFA?style=flat-square&logo=google&logoColor=white)
+
+| Project Name | Domain | Key Tech | Description |
+| :--- | :---: | :---: | :--- |
+| **[ForeverCard (Anniversary Card)](https://github.com/viochris/forevercard-anniversary)** | Vibe Coding / Web App | React, TypeScript, Vite, Web Audio API | **Interactive Celebration Card.** A romantic 1-year anniversary web card featuring a cursor-dodging "no" button, a polaroid relationship-timeline gallery, live selfie capture with filters, a love quiz, a downloadable keepsake letter, confetti bursts, and synthesized background music. |
+| **[WishBox (Birthday Card)](https://github.com/viochris/wishbox-birthday-card)** | Vibe Coding / Web App | React, TypeScript, Vite, Web Speech API | **Interactive Celebration Card.** A festive, relationship-agnostic birthday web card guiding the recipient through making a wish (real microphone candle-blow detection), unwrapping a gift box, and reading a personal letter with confetti, synthesized music, and browser text-to-speech. |
 
 #### 🎮 Experimental & Fun Projects
 *Creative coding projects exploring logic flows, real-time communication, and game-like interactions.*
