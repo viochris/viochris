@@ -337,7 +337,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
@@ -413,7 +413,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 02:35:16 UTC
+ Last Updated on 24/09/2026 02:25:03 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
