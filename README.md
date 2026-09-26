@@ -274,14 +274,15 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 | **[Bike Sales Dashboard](https://public.tableau.com/views/BikeSalesDashboard_17081369078430/Dashboard1)** | Executive Sales | Tableau Public | **Revenue Tracker.** High-level executive view of Revenue and Unit Sales. Analyzes performance by **US States**, **Brand Names**, and identifies **Top 10 High-Value Customers**. |
 
 #### 🎨 Vibe Coding Projects
-*Interactive, front-end-heavy web apps built end-to-end through "vibe coding" (AI-assisted, prompt-driven development in Google AI Studio with Gemini), showcasing versatility beyond my core Data Science/AI focus.*
+*Interactive web apps, from front-end-only experiences to full-stack platforms, built end-to-end through "vibe coding" (AI-assisted, prompt-driven development in Google AI Studio with Gemini), showcasing versatility beyond my core Data Science/AI focus.*
 
-![Projects](https://img.shields.io/badge/2_Projects-A78BFA?style=flat-square&logo=google&logoColor=white)
+![Projects](https://img.shields.io/badge/3_Projects-A78BFA?style=flat-square&logo=google&logoColor=white)
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
 | **[ForeverCard (Anniversary Card)](https://github.com/viochris/forevercard-anniversary)** | Vibe Coding / Web App | React, TypeScript, Vite, Web Audio API | **Interactive Celebration Card.** A romantic 1-year anniversary web card featuring a cursor-dodging "no" button, a polaroid relationship-timeline gallery, live selfie capture with filters, a love quiz, a downloadable keepsake letter, confetti bursts, and synthesized background music. |
 | **[WishBox (Birthday Card)](https://github.com/viochris/wishbox-birthday-card)** | Vibe Coding / Web App | React, TypeScript, Vite, Web Speech API | **Interactive Celebration Card.** A festive, relationship-agnostic birthday web card guiding the recipient through making a wish (real microphone candle-blow detection), unwrapping a gift box, and reading a personal letter with confetti, synthesized music, and browser text-to-speech. |
+| **[LinkNest (Link-in-Bio Platform)](https://github.com/viochris/linknest-link-in-bio)** | Vibe Coding / Full-Stack App | React, TypeScript, Supabase, Gemini | **Full-Stack Link-in-Bio Platform.** A customizable link-in-bio platform with a public profile page and a Supabase-backed admin dashboard, featuring AI-generated link descriptions, a Google Search powered Discover tab, broken-link checks, password-protected pages, dynamic Open Graph previews, and click analytics. |
 
 #### 🎮 Experimental & Fun Projects
 *Creative coding projects exploring logic flows, real-time communication, and game-like interactions.*
