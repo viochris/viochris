@@ -276,7 +276,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 #### 🎨 Vibe Coding Projects
 *Interactive web apps, from front-end-only experiences to full-stack platforms, built end-to-end through "vibe coding" (AI-assisted, prompt-driven development in Google AI Studio with Gemini), showcasing versatility beyond my core Data Science/AI focus.*
 
-![Projects](https://img.shields.io/badge/4_Projects-A78BFA?style=flat-square&logo=google&logoColor=white)
+![Projects](https://img.shields.io/badge/6_Projects-A78BFA?style=flat-square&logo=google&logoColor=white)
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
@@ -284,6 +284,8 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 | **[WishBox (Birthday Card)](https://github.com/viochris/wishbox-birthday-card)** | Vibe Coding / Web App | React, TypeScript, Vite, Web Speech API | **Interactive Celebration Card.** A festive, relationship-agnostic birthday web card guiding the recipient through making a wish (real microphone candle-blow detection), unwrapping a gift box, and reading a personal letter with confetti, synthesized music, and browser text-to-speech. |
 | **[LinkNest (Link-in-Bio Platform)](https://github.com/viochris/linknest-link-in-bio)** | Vibe Coding / Full-Stack App | React, TypeScript, Supabase, Gemini | **Full-Stack Link-in-Bio Platform.** A customizable link-in-bio platform with a public profile page and a Supabase-backed admin dashboard, featuring AI-generated link descriptions, a Google Search powered Discover tab, broken-link checks, password-protected pages, dynamic Open Graph previews, and click analytics. |
 | **[AutoVista Motors (Car Dealership Showcase)](https://github.com/viochris/autovista-car-dealership)** | Vibe Coding / Web App | React, TypeScript, Vite, Tailwind CSS | **Multipage Car Dealership Showcase.** A fictional 7-page dealership site with a 24-vehicle lineup, featuring live search, sorting, budget filtering, side-by-side vehicle comparison, a working financing calculator, and a multi-layer parallax homepage, built as a front-end design showcase. |
+| **[Hanami (Japan Destination Showcase)](https://github.com/viochris/hanami-japan-showcase)** | Vibe Coding / Web App | React, TypeScript, Tailwind CSS, Leaflet | **Japan Travel Journal Showcase.** A fictional 7-page Japan travel journal with 16 destinations, four seasonal themes that restyle the whole site, an interactive regional map, a drag-and-drop itinerary builder, six sample travel packages, and a searchable travel tips guide and FAQ, built as a front-end design showcase. |
+| **[Skycast (Weather Dashboard)](https://github.com/viochris/skycast-weather-dashboard)** | Vibe Coding / Web App | React, TypeScript, Vite, Open-Meteo API | **Live Weather Dashboard.** A weather dashboard with hourly and 7-day forecasts, air quality, rule-based alerts and outfit tips, a live rain radar, side-by-side city comparison, a historical climate view, and ambient sounds that match the weather, generated live with the Web Audio API. No backend and no API key needed. |
 
 #### 🎮 Experimental & Fun Projects
 *Creative coding projects exploring logic flows, real-time communication, and game-like interactions.*
