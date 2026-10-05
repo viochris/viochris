@@ -341,7 +341,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
@@ -349,7 +349,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 > 📦 279.1 kB Used in GitHub's Storage 
  > 
-> 🏆 979 Contributions in the Year 2026
+> 🏆 980 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -360,21 +360,21 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                409 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌆 Daytime                732 commits         ██████████████░░░░░░░░░░░   56.39 % 
-🌃 Evening                156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+🌞 Morning                409 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
+🌆 Daytime                733 commits         ██████████████░░░░░░░░░░░   56.43 % 
+🌃 Evening                156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Tuesday                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Wednesday                188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Thursday                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Friday                   281 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Saturday                 215 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Sunday                   141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Monday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Tuesday                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Wednesday                188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Thursday                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Friday                   281 commits         █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Saturday                 215 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Sunday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 ```
 
 
@@ -384,18 +384,17 @@ Sunday                   141 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   8 hrs 15 mins       ████████████████████████░   96.49 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   7 hrs 35 mins       ██████████████████████░░░   89.98 % 
+Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 8 hrs 33 mins       █████████████████████████   100.00 % 
+ai-resep                 8 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -417,7 +416,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 03:33:13 UTC
+ Last Updated on 05/10/2026 03:13:49 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
