@@ -341,15 +341,15 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 279.2 kB Used in GitHub's Storage 
+> 📦 279.5 kB Used in GitHub's Storage 
  > 
-> 🏆 983 Contributions in the Year 2026
+> 🏆 987 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -360,21 +360,21 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                412 commits         ████████░░░░░░░░░░░░░░░░░   31.64 % 
-🌆 Daytime                733 commits         ██████████████░░░░░░░░░░░   56.30 % 
-🌃 Evening                156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+🌞 Morning                416 commits         ████████░░░░░░░░░░░░░░░░░   31.85 % 
+🌆 Daytime                733 commits         ██████████████░░░░░░░░░░░   56.13 % 
+🌃 Evening                156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Tuesday                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Wednesday                188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Thursday                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Friday                   284 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Saturday                 215 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Sunday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Monday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Tuesday                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Wednesday                188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Thursday                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Friday                   284 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Saturday                 219 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Sunday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 ```
 
 
@@ -384,18 +384,19 @@ Sunday                   142 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   5 hrs 51 mins       ██████████████████████░░░   88.28 % 
-Bash                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Python                   5 hrs 51 mins       ████████████████████░░░░░   81.15 % 
+Bash                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 6 hrs 37 mins       █████████████████████████   100.00 % 
+ai-resep                 7 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -417,7 +418,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 03:50:05 UTC
+ Last Updated on 10/10/2026 03:32:55 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
