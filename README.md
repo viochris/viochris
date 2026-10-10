@@ -461,11 +461,11 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ### 📫 Connect with Me & Resume
 
 <div align="center">
-  <a href="https://github.com/viochris/viochris/raw/main/CV_Silvio_Christian_Joe_Data_Scientist.pdf" target="_blank">
+  <a href="https://github.com/viochris/viochris/raw/main/Silvio Christian, Joe-resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV_(PDF)-ED2224?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1RiqkgvDZP4c1MoXTp2-8ZTnnVTo8fen5/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1l5XQPxIhVz3__JxGC1tDl7SR51d307Fk/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View_on_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View CV" />
   </a>
   
