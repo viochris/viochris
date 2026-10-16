@@ -347,7 +347,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 **🐱 My GitHub Data** 
 
-> 📦 279.7 kB Used in GitHub's Storage 
+> 📦 279.8 kB Used in GitHub's Storage 
  > 
 > 🏆 990 Contributions in the Year 2026
  > 
@@ -355,26 +355,26 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
  > 
 > 📜 90 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                416 commits         ████████░░░░░░░░░░░░░░░░░   31.78 % 
-🌆 Daytime                734 commits         ██████████████░░░░░░░░░░░   56.07 % 
-🌃 Evening                158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+🌞 Morning                416 commits         ████████░░░░░░░░░░░░░░░░░   31.76 % 
+🌆 Daytime                735 commits         ██████████████░░░░░░░░░░░   56.11 % 
+🌃 Evening                158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Tuesday                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Wednesday                190 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Thursday                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Friday                   284 commits         █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Saturday                 220 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Sunday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Tuesday                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Wednesday                190 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Thursday                 171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Friday                   284 commits         █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+Saturday                 220 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Sunday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 ```
 
 
@@ -384,19 +384,19 @@ Sunday                   142 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 48 mins       ████████████████████░░░░░   79.49 % 
-JSON                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Python                   4 hrs 7 mins        ████████████████████░░░░░   79.41 % 
+JSON                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 4 hrs 48 mins       █████████████████████████   100.00 % 
+ai-resep                 5 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -408,17 +408,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   49 repos            █████████████░░░░░░░░░░░░   53.26 % 
-Jupyter Notebook         16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Python                   49 repos            █████████████░░░░░░░░░░░░   52.69 % 
+Jupyter Notebook         16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 
 
 
- Last Updated on 15/10/2026 02:31:34 UTC
+ Last Updated on 16/10/2026 02:25:48 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
