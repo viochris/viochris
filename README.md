@@ -341,7 +341,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 ### ⏱️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20mins-blue?style=flat)
 
@@ -384,19 +384,19 @@ Sunday                   142 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   4 hrs 7 mins        ████████████████████░░░░░   79.41 % 
-JSON                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   5 hrs 12 mins       ███████████████████████░░   90.97 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 5 hrs 11 mins       █████████████████████████   100.00 % 
+ai-resep                 5 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -418,7 +418,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 02:25:48 UTC
+ Last Updated on 17/10/2026 02:18:37 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
