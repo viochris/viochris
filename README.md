@@ -347,7 +347,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 
 **🐱 My GitHub Data** 
 
-> 📦 279.8 kB Used in GitHub's Storage 
+> 📦 279.9 kB Used in GitHub's Storage 
  > 
 > 🏆 990 Contributions in the Year 2026
  > 
@@ -384,18 +384,17 @@ Sunday                   142 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   4 hrs 30 mins       ████████████████████████░   96.72 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   1 hr 43 mins        ███████████████████████░░   92.62 % 
+Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-resep                 4 hrs 39 mins       █████████████████████████   100.00 % 
+ai-resep                 1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -417,7 +416,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 02:18:36 UTC
+ Last Updated on 19/10/2026 02:33:56 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
