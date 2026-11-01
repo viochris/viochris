@@ -191,10 +191,11 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 #### 🤖 GenAI & Interactive Applications
 *Interactive AI agents and chatbots powered by RAG and LLMs.*
 
-![Projects](https://img.shields.io/badge/13_Projects-8B5CF6?style=flat-square&logo=googlegemini&logoColor=white)
+![Projects](https://img.shields.io/badge/14_Projects-8B5CF6?style=flat-square&logo=googlegemini&logoColor=white)
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
+| **[LlamaIndex RAG & Agents Practice](https://github.com/viochris/llamaindex-rag-agents-practice)** | GenAI / RAG Practice | LlamaIndex, ChromaDB, Gemini, Cross-Encoder | **Step-by-Step LlamaIndex Practice.** Six progressive CLI scripts, from a basic RAG query engine, through chunking, saved indexes, and local ChromaDB, to a context chat engine with memory and finally **FunctionAgent** and **ReActAgent** over two reranked document collections. Includes a limitations analysis (RAM and file-based storage) plus notes and code for moving to server-based storage. |
 | **[Website Reader RAG Chatbot](https://github.com/viochris/website-reader-rag-chatbot)** | GenAI / RAG | LlamaIndex, ChromaDB Cloud, Gemini, Trafilatura | **Web Page Q&A Engine.** A CLI RAG chatbot that scrapes web pages with Trafilatura, indexes them in ChromaDB Cloud, and answers strictly from the page content using cross-encoder reranking and persistent PostgreSQL memory. Features **Idempotent Ingestion** (scrape and embed once, reuse on later runs) and categorized error handling. |
 | **[YouTube Multimodal RAG Chatbot](https://github.com/viochris/youtube-multimodal-rag-chatbot)** | GenAI / Multimodal RAG | LlamaIndex, CLIP, ChromaDB Cloud, Gemini 2.5 Flash | **Chat with a Video's Transcript *and* Frames.** A CLI assistant that downloads a YouTube video, then indexes its transcript (Gemini embeddings) and sampled frames (CLIP) as separate ChromaDB collections and answers from both. Features cross-encoder reranking, persistent PostgreSQL memory, **Arize Phoenix** tracing, per-turn token/cost reporting, and the exact source nodes printed behind every answer. |
 | **[RAG Token Benchmark (Vector vs Graph vs Hybrid)](https://github.com/viochris/rag-token-benchmark-vector-graph-hybrid)** | GenAI / RAG Benchmark | LlamaIndex, ChromaDB, Neo4j, LiteLLM | **Cost-per-Architecture Study.** Benchmarks token consumption and estimated USD cost of **Vector, Graph, and Hybrid RAG** on the same YouTube transcript and the same three questions (simple, analytical, multi-hop), with token counting, step-level tracing, and LiteLLM cost estimation. Result: cost rose from Vector to Graph to Hybrid on every question. |
@@ -279,7 +280,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 #### 🎨 Vibe Coding Projects
 *Interactive web apps, from front-end-only experiences to full-stack platforms, built end-to-end through "vibe coding" (AI-assisted, prompt-driven development in Google AI Studio with Gemini), showcasing versatility beyond my core Data Science/AI focus.*
 
-![Projects](https://img.shields.io/badge/6_Projects-A78BFA?style=flat-square&logo=google&logoColor=white)
+![Projects](https://img.shields.io/badge/7_Projects-A78BFA?style=flat-square&logo=google&logoColor=white)
 
 | Project Name | Domain | Key Tech | Description |
 | :--- | :---: | :---: | :--- |
@@ -289,6 +290,7 @@ Here is a comprehensive list of my Data Science & AI projects, ranging from robu
 | **[AutoVista Motors (Car Dealership Showcase)](https://github.com/viochris/autovista-car-dealership)** | Vibe Coding / Web App | React, TypeScript, Vite, Tailwind CSS | **Multipage Car Dealership Showcase.** A fictional 7-page dealership site with a 24-vehicle lineup, featuring live search, sorting, budget filtering, side-by-side vehicle comparison, a working financing calculator, and a multi-layer parallax homepage, built as a front-end design showcase. |
 | **[Hanami (Japan Destination Showcase)](https://github.com/viochris/hanami-japan-showcase)** | Vibe Coding / Web App | React, TypeScript, Tailwind CSS, Leaflet | **Japan Travel Journal Showcase.** A fictional 7-page Japan travel journal with 16 destinations, four seasonal themes that restyle the whole site, an interactive regional map, a drag-and-drop itinerary builder, six sample travel packages, and a searchable travel tips guide and FAQ, built as a front-end design showcase. |
 | **[Skycast (Weather Dashboard)](https://github.com/viochris/skycast-weather-dashboard)** | Vibe Coding / Web App | React, TypeScript, Vite, Open-Meteo API | **Live Weather Dashboard.** A weather dashboard with hourly and 7-day forecasts, air quality, rule-based alerts and outfit tips, a live rain radar, side-by-side city comparison, a historical climate view, and ambient sounds that match the weather, generated live with the Web Audio API. No backend and no API key needed. |
+| **[Botanica AI (Plant Care App)](https://github.com/viochris/botanica-ai)** | Vibe Coding / Full-Stack App | React, TypeScript, Express, Gemini | **Full-Stack Plant Care Companion.** A React web app with an Express API proxy that identifies a plant from a photo, diagnoses leaf health, and generates an 8-point care plan, featuring a My Garden watering tracker, **Dr. Flora**, a multi-turn AI botanist chat, a potting-soil calculator, structured JSON output, cascaded Gemini model fallback, and rate-limited server-side API calls. *[Live Demo](https://botanica-ai-mu.vercel.app/)* |
 
 #### 🎮 Experimental & Fun Projects
 *Creative coding projects exploring logic flows, real-time communication, and game-like interactions.*
