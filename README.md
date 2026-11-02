@@ -112,9 +112,14 @@ I am a 7th-semester Informatics Engineering student at **Universitas Dian Nuswan
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E56CF?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-0769AD?style=for-the-badge&logo=probot&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-1A9E38?style=for-the-badge)
+![Phoenix Arize](https://img.shields.io/badge/Phoenix%20Arize-E15E28?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-092E20?style=for-the-badge&logo=meta&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
 
 **Web Frameworks & UI:**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -155,11 +160,8 @@ I am a 7th-semester Informatics Engineering student at **Universitas Dian Nuswan
 ### 🌱 Currently Exploring & Next on My Radar
 *Technologies I am actively learning and integrating into upcoming projects.*
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![DSPy](https://img.shields.io/badge/DSPy-2A2B2E?style=for-the-badge&logo=python&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-1A9E38?style=for-the-badge)
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
-![Phoenix Arize](https://img.shields.io/badge/Phoenix%20Arize-E15E28?style=for-the-badge)
 ![FastMCP](https://img.shields.io/badge/FastMCP-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
